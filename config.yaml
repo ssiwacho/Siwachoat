@@ -1,0 +1,11 @@
+baseurl: https://example.com
+title: Winning
+theme: hugo-theme-winning
+disableKinds: RSS
+defaultContentLanguage: en
+enableRobotsTXT: yes
+languageCode: en-us
+taxonomies: {}
+author:
+  email: your-email
+  name: your-name
