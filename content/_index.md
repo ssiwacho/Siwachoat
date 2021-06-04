@@ -1,8 +1,21 @@
 ---
 title: CV
 ---
-# Your name here
-Bacon ipsum dolor amet bacon filet mignon bresaola, pork burgdoggen shankle doner. Tenderloin short loin bresaola landjaeger porchetta. Swine venison salami brisket ground round biltong chuck short ribs ribeye shoulder leberkas sausage shankle. Pork chop ground round ball tip picanha. Pig salami biltong buffalo sausage rump ball tip. Pork loin shoulder biltong, meatloaf leberkas cupim chuck.
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@100&display=swap" rel="stylesheet"> 
+
+
+# ดร.สิวะโชติ ศรีสุทธิยากร
+
+อาจารย์ประจำ ภาควิชาวิจัยและจิตวิทยาการศึกษา
+
+คณะครุศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย 
+
+กรุงเทพฯ 10300
+
+โทร: 02-218-2565 ต่อ 7036
+
 
 {{% grid %}}
 

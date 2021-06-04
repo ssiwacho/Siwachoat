@@ -1,6 +1,12 @@
 /* Vanilla CSS you should try it */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@100&display=swap');
+
+
+
 html, body{
-  font-family: 'Fira sans', sans-serif;
+  font-family: 'Sarabun', sans-serif;
   background: url('../img/noisyly.png') repeat fixed, linear-gradient(to bottom, rgba(28,20,20,0.26) 0%,rgba(155,155,155,0) 0.2em) fixed;
   font-size: 1em;
   overflow-x: hidden;
@@ -48,7 +54,7 @@ footer a:hover{
   grid-area: main;
   margin: 1em auto 40px;
   line-height: 1.2em;
-  text-align: left;
+  text-align: center;
   width: 70%;
   max-width: 35em;
 }
